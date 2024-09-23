@@ -1,0 +1,12 @@
+package in.nareshIt.carts;
+
+import java.util.List;
+
+import in.nareshIt.products.Mobile;
+import lombok.Data;
+
+@Data
+public class ProductCart1 {
+
+	private List<Mobile> mobiles;
+}

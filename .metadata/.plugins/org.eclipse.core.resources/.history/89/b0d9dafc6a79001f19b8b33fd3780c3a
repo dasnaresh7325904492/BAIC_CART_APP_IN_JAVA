@@ -1,0 +1,9 @@
+package in.nareshIt.addToCart;
+
+public class AddToCart {
+
+	  public AddToCart() {
+		  
+	  }
+	  
+}
